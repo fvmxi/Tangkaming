@@ -233,4 +233,4 @@ document.querySelector('.hero .buttons').classList.add('visible');
 });
 </script>
 </body>
-</html> 
+</html>
